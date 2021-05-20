@@ -1,0 +1,10 @@
+#products img {
+    width: 200px;
+    height: 250px;
+    
+}
+ .product_img  img {
+    overflow: auto;
+     margin: auto;
+     float: inherit;
+}
